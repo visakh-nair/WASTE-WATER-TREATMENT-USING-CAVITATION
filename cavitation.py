@@ -1,6 +1,3 @@
-# Author: Mohin Patel
-# Mail: mohin00950@gmail.com
-
 # Calculation Model Used:
 # Cavitation Number - Euler's Equation
 # Water Density - IAPWS Formulation 1995 equation
